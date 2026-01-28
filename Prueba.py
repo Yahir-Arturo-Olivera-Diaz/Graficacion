@@ -1,4 +1,5 @@
-print("hola mundo")
-print("segunda linea")
-print("tercera linea")
-print("cuarta linea")
+import simpy
+import numpy as np
+import matplotlib.pyplot as plt
+
+print("¡Librerías listas para la simulación!")
